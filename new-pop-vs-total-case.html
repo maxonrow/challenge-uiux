@@ -1,0 +1,29 @@
+<head>
+  <!-- Include Plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+  <div id="plotlyDiv">
+    <!-- Plotly chart will be drawn inside this DIV -->
+  </div>
+  <script>
+   var json = require('./data.json'); //(with path)
+
+console.log(json);
+    const http = new XMLHttpRequest()
+
+    http.open("GET", "https://dev-meds-api.usdp.io/integrator/exploratory/new-pop-vs-total-case")
+    http.send()
+
+    http.onload = (e) => {
+      var figure = JSON.parse(http.response);
+      Plotly.react('plotlyDiv', figure.data, figure.layout).then(function () {
+        if (figure.frames) {
+          Plotly.addFrames('plotlyDiv', figure.frames)
+        }
+      });
+    }
+
+  </script>
+</body>
