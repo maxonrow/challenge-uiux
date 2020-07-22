@@ -1,0 +1,10 @@
+version: '2.4'
+
+services: 
+  workflowengine:
+    build: .
+    ports: 
+      - 8080:8080
+    volumes:
+      - .:/node/app
+      - /node/app/node_modules

@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
 
     let plot = 'new-pop-vs-total-case';
 
-    res.sendFile(`./src/${plot}.html`, { root: __dirname });
+    res.sendFile(`./${plot}.html`, { root: __dirname });
 
 })
 
