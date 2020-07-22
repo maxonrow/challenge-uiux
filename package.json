@@ -1,0 +1,23 @@
+{
+  "name": "challenge-uiux",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxonrow/challenge-uiux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxonrow/challenge-uiux/issues"
+  },
+  "homepage": "https://github.com/maxonrow/challenge-uiux#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
