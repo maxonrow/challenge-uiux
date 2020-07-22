@@ -8,3 +8,7 @@
 
 - A customizable self-serve analytics solution to help visualization of daily pandamic situation
 - A self-service analytics dashboards that help to uncover hidden insights and help decisions be data driven.
+
+## Sample output
+
+![Alt text](src/plot.png?raw=true "Sample UIUX Output")
