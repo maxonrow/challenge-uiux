@@ -1,4 +1,6 @@
-# UI/UX
+# ![https://maxonrow.com](https://maxonrow.com/images/maxonrow_gold.png)
+
+## UI/UX
 
 ## Problem Statement
 
@@ -9,7 +11,7 @@
 - A customizable self-serve analytics solution to help visualization of daily pandamic situation
 - A self-service analytics dashboards that help to uncover hidden insights and help decisions be data driven.
 
-## Sample Solution
+## Start Up UIUX Project
 
 ### Step 1 - Checkout directory
 
