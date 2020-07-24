@@ -23,7 +23,7 @@ To build docker image, run `docker build . --tag uiux`
 
 ### Step 3 - Run docker container
 
-To start the container, run `docker run -it -p 8080:8080 --name uiux -d uiux`
+To start the container, run `docker run -it -p 3003:3003 --name uiux -d uiux`
 
 ### Step 4 - Expected output
 

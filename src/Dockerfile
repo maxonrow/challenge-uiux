@@ -3,5 +3,5 @@ WORKDIR /node
 COPY package*.json ./
 RUN npm install
 COPY . .
-EXPOSE 8090
+EXPOSE 3003
 CMD [ "node", "main.js"]

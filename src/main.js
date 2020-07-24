@@ -3,7 +3,7 @@ import express from 'express';
 
 const app = express();
 
-const port = process.env.PORT || 8090;
+const port = process.env.PORT || 3003;
 
 export default port;
 
