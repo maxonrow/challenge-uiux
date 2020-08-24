@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-- There are many data representations of the current pandemic. How do we present a holistic multi-dimensional dashboard with unique features that are not being used right now and are powered by blockchain technology?
+- There are many data representations of the current pandemic. How do we present a holistic multi-dimensional dashboard with unique features?
 
 ## Potential Solution
 
