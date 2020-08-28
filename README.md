@@ -2,6 +2,10 @@
 
 ## UI/UX
 
+## What Type of Solutions are we Looking for?
+
+We're looking for innovative data representations that deliver value by presenting all relevant information of a dataset creatively. 
+
 ## Problem Statement
 
 - There are many data representations of the current pandemic. How do we present a holistic multi-dimensional dashboard with unique features?
