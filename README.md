@@ -32,3 +32,7 @@ To start the container, run `docker run -it -p 3003:3003 --name uiux -d uiux`
 ### Step 4 - Expected output
 
 ![Alt text](src/plot.png?raw=true "Sample UIUX Output")
+
+### Step 5 - Checkout Article
+- checkout our [cookbook](https://medium.com/maxonrow/maxathon-challenge-5-ui-ux-a0837a2ffb11).
+- please! remember to claps, follow & share. we will mint you something! You will find out soon!
